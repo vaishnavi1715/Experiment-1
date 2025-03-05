@@ -82,7 +82,8 @@ Now replace the R3 resister with a current source : connect a current souce of 0
 DC analysis:
 To perform the DC analysis we have to select the {DC op pnt} in the edit simulation command and run the simulation the figure below is the values obtained from the DC analysis
 
-![image](https://github.com/user-attachments/assets/135cf0dd-d6cb-44d5-90ae-a320fa5bfe54)
+![image](https://github.com/user-attachments/assets/d4bcc08f-c6bf-4262-96af-af777d3c71de)
+
 
 
 Trasient analysis:
@@ -90,7 +91,7 @@ To perform transient analysis we have to select the transient analysis in the ed
 
 we have to give deg of 180deg to one mosfet and 0deg to the other mosfet and ac amplitude 1 for one mosfet and 0 for other mosfet
 
-![image](https://github.com/user-attachments/assets/fa8b49d3-5442-4578-bf36-05d6e46df04e)
+![image](https://github.com/user-attachments/assets/b9ea1f3f-0160-46eb-b65c-378e63908925)
 
 
 voltage gain AV=voutp-p/vinp-p
